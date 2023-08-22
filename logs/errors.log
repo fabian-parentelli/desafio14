@@ -1,0 +1,52 @@
+{"level":"error","message":"this.dao.getById is not a function"}
+{"level":"error","message":"this.dao.getById is not a function"}
+{"level":"fatal","message":"Prueba Fatal"}
+{"level":"error","message":"Prueba Error"}
+{"level":"error","message":"this.dao.getById is not a function"}
+{"level":"error","message":"userService.recoverPassword is not a function"}
+{"level":"error","message":"userService.recoverPassword is not a function"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'error')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'error')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'error')"}
+{"level":"error","message":"passwordToken is not defined"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'error')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'error')"}
+{"level":"error","message":"result is not defined"}
+{"level":"error","message":"result is not defined"}
+{"level":"error","message":"sendEmail is not defined"}
+{"level":"error","message":"Cannot read properties of null (reading '_id')"}
+{"level":"error","message":"Cannot set properties of null (setting 'recoverPassword')"}
+{"level":"error","message":"Cannot destructure property 'title' of 'product' as it is undefined."}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cannot read properties of undefined (reading 'status')"}
+{"level":"error","message":"Cast to ObjectId failed for value \"64cfcd24490a33c791d0e16\" (type string) at path \"_id\" for model \"products\""}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"Cannot read properties of undefined (reading '_id')"}
+{"level":"error","message":"E11000 duplicate key error collection: 645434db1249f93564fef864_preEntrega3.products index: code_1 dup key: { code: \"Yrs23Bata\" }"}
+{"level":"error","message":"Incomplete Value"}
+{"level":"error","message":"Incomplete Value"}
+{"level":"error","message":"data must be a string or Buffer and salt must either be a salt string or a number of rounds"}
+{"level":"error","message":"User already exists"}
+{"level":"error","message":"User already exists"}
+{"level":"error","message":"User already exists"}
